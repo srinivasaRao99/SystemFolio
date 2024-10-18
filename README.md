@@ -1,4 +1,4 @@
-#SystemFolio
+# SystemFolio
 
 Welcome to SystemFolio, a unique portfolio showcasing my projects and skills through the nostalgic lens of vintage operating systems. This repository features an interactive experience inspired by the design elements of classic OS interfaces, merging functionality with retro aesthetics. 
 
